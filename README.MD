@@ -32,7 +32,7 @@
 
 다운로드 주소 : https://www.elastic.co/kr/downloads/elasticsearch
 
-![](.\image\download_address.png)
+![](./image/download_address.png)
 
 os환경에 맞는 파일을 다운로드 하신 후 압축을 푸시면 설치는 끝납니다.
 
@@ -50,7 +50,7 @@ os환경에 맞는 파일을 다운로드 하신 후 압축을 푸시면 설치�
 
 설치가 완료되었으면, elasticsearch.bat파일을 재실행 한 후 위로 조금 올라와 보시면
 
-![](.\image\nori_run.png)
+![](./image/nori_run.png)
 
 위에처럼 plugin이 동작하는 모습을 확인할 수 있습니다 ^^.
 
